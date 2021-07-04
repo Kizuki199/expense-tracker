@@ -2,9 +2,6 @@
 
 運用 Express & MySQL 打造的網頁，將平常的花費與開銷進行紀錄。
 
-## Picture
-
-![畫面截圖](https://i.imgur.com/6OF1u7H.jpg)
 
 ## Environment SetUp
 
@@ -21,7 +18,7 @@
 啟動 MySQL 資料庫，開啟終端機並下載專案，完成後會顯示 Done 訊息
 
 ```
-git clone https://github.com/asd8116/Expenses-MySQL.git
+git clone https://github.com/Kizuki199/expense-tracker.git
 ```
 
 從終端機導入目標檔案，並下載工具包
@@ -68,6 +65,3 @@ node app.js
 - 點擊 `修改` 可修改開支紀錄的資料
 - 點擊 `刪除` 可移除開支紀錄的內容
 
-## Contributor
-
-[馬振壹 Wanaka](https://github.com/asd8116)
